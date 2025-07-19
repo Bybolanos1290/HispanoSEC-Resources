@@ -1,3 +1,7 @@
+#LECTURA Y HERRAMIENTAS
+
+Esta parte me pareció interesante al tratarse de herramientas que facilitan el análisis forense.
+
 # CIBERSEGURIDAD
 
 ## ¿Qué es la Ciberseguridad?
