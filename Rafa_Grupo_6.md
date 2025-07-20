@@ -2,6 +2,8 @@
 
 Esta parte me pareció interesante al tratarse de herramientas que facilitan el análisis forense.
 
+Adicionalmente me permito comentar que hoy en dia realmente esta práctica es un punto importante para cualquier empresa que utiliza la tecnologica como parte de sus servicios 
+
 # CIBERSEGURIDAD
 
 ## ¿Qué es la Ciberseguridad?
